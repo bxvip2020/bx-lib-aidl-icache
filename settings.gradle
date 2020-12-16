@@ -1,0 +1,3 @@
+include ':icache'
+include ':app'
+rootProject.name = "bx-lib-aidl-icache"
